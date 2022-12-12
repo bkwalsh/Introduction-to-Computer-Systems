@@ -1,0 +1,51 @@
+bkwalsh p1bitmanip grade: 103/103 
+ 
+https://phoenixforge.cs.uchicago.edu/svn/bkwalsh-cs154-aut-21/p1bitmanip 
+Grading revision: 16 
+
+$ make
+gcc -O0 -Wall -lm -o btest bits.c btest.c decl.c tests.c
+gcc -O0 -Wall -o ishow ishow.c
+
+$ ./driver.pl
+1. Running './dlc -z' to identify coding rules violations.
+
+2. Compiling and running './btest -g' to determine correctness score.
+gcc -O0 -Wall -lm -o btest bits.c btest.c decl.c tests.c 
+
+3. Running './dlc -Z' to identify operator count violations.
+
+4. Compiling and running './btest -g -r 2' to determine performance score.
+gcc -O0 -Wall -lm -o btest bits.c btest.c decl.c tests.c 
+
+
+5. Running './dlc -e' to get operator count of each function.
+
+Correctness Results	Perf Results
+Points	Rating	Errors	Points	Ops	Puzzle
+4	4	0	2	3	absVal
+3	3	0	2	14	addOK
+2	2	0	2	9	allEvenBits
+4	4	0	2	5	bang
+4	4	0	2	38	bitCount
+1	1	0	2	3	bitNor
+2	2	0	2	15	byteSwap
+3	3	0	2	8	conditional
+3	3	0	2	6	ezThreeFourths
+2	2	0	2	7	fitsBits
+2	2	0	2	3	getByte
+4	4	0	2	15	greatestBitPos
+2	2	0	2	2	implication
+3	3	0	2	13	isAsciiDigit
+2	2	0	2	2	isEqual
+3	3	0	2	20	isLess
+3	3	0	2	2	isNonNegative
+4	4	0	2	13	isPower2
+1	1	0	2	7	isTmin
+1	1	0	2	1	minusOne
+3	3	0	2	15	rotateLeft
+3	3	0	2	10	satMul2
+
+Score = 103/103 [59/59 Corr + 44/44 Perf] (211 total operators)
+
+Final Grade: 103/103

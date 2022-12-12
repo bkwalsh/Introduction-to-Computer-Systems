@@ -1,0 +1,14 @@
+bkwalsh exam2 grade: 107/130
+
+  Question 1: 54 / 60
+  Question 2: 4 / 12
+  Question 3: 12 / 12
+  Question 4: 12 / 12
+  Question 5: 8 / 12
+  Question 6: 7 / 12
+  Question 7: 10 / 10
+
+Questions were graded by TAs and professors. If you believe a question
+was graded incorrectly, post a private note in the "exam2" Piazza
+folder to identify the question number, and the grading error.
+

@@ -1,0 +1,12 @@
+bkwalsh exam1 grade: 154/200
+
+  Question 1: 68 / 80 True false 
+  Question 2: 16 / 16 if fits binary parameters
+  Question 3: 8 / 20 little e big e refrencing 
+  Question 4: 4 / 16 pointer arithmatic
+  Question 5: 22 / 28 assembly code
+  Question 6: 36 / 40 cache
+
+Questions were graded by TAs and professors. If you believe a question
+was graded incorrectly, please drop by the exam office hour.
+
