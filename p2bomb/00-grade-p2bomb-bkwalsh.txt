@@ -1,0 +1,12 @@
+bkwalsh p2bomb grade: 59/60
+
+bomb32:
+  Phases Defused:   6
+  Explosions:       3
+  Bomb Score:       59
+
+bomb25:
+  Phases Defused:   2
+  Explosions:       10
+  Bomb Score:       15
+
